@@ -1,4 +1,4 @@
-name: build_an_ai_startup_env
+name: smart_med_scan_env
 channels:
   - defaults
 dependencies:
@@ -12,5 +12,5 @@ dependencies:
   - wheel=0.35.1=py_0
   - wincertstore=0.2=py36h7fe50ca_0
   - zlib=1.2.11=h62dcd97_4
-prefix: C:\Users\bbuen\.conda\envs\build_an_ai_startup_env
+prefix: C:\Users\bbuen\.conda\envs\smart_med_scan_env
 
